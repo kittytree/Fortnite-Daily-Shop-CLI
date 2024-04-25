@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFoC/5E2QKXTtJ3lkO/ABg3IqwEmUmu5ZWoQhoOFQm1XSnqgvoSnbFYM4Oj9lGTYaUVbfZdkkz33ifll+oaHgQ==",
+  "success": true,
+  "projectFilePath": "/home/kitty/Code/repos/FortniteShopSort/FortniteShopSort/FortniteShopSort.csproj",
+  "expectedPackageFiles": [
+    "/home/kitty/.nuget/packages/fortnite-api-wrapper/2.3.2/fortnite-api-wrapper.2.3.2.nupkg.sha512",
+    "/home/kitty/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/kitty/.nuget/packages/restsharp/106.15.0/restsharp.106.15.0.nupkg.sha512",
+    "/home/kitty/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/kitty/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/kitty/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
